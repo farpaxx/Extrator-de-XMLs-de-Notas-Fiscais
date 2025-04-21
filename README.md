@@ -92,7 +92,7 @@ Veja o arquivo [LICENSE](LICENSE) para o texto completo da licença.
 
 Para dúvidas ou sugestões, entre em contato:
 - Email: [luiz.pacheco@deepia.com.br](mailto:luiz.pacheco@deepia.com.br)
-- GitHub: [@seu-usuario](https://github.com/farpaxx)
+- GitHub: [@farpaxx](https://github.com/farpaxx)
 
 ---
 
