@@ -17,10 +17,15 @@ Um aplicativo web para extrair, visualizar e analisar dados de arquivos XML de N
 
 ## 🖼️ Screenshots
 
-[Dashboard](https://via.placeholder.com/800x400?text=Dashboard+do+Extrator+de+NFe)![image](https://github.com/user-attachments/assets/8d40f354-f84c-4ae0-ae59-388acb79d2fa)
+[Dashboard]
+![image](https://github.com/user-attachments/assets/f575dcba-f3c9-4309-be77-40b8f31bd016)
+
 
 [Análise Fiscal]
 ![image](https://github.com/user-attachments/assets/345ce12a-465e-4c9e-bea3-116fc8c75c07)
+
+[Exportar XML's em CSV]
+![image](https://github.com/user-attachments/assets/8d40f354-f84c-4ae0-ae59-388acb79d2fa)
 
 
 ## 🚀 Tecnologias utilizadas
