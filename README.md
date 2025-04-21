@@ -3,7 +3,7 @@
 Um aplicativo web para extrair, visualizar e analisar dados de arquivos XML de Notas Fiscais Eletrônicas (NF-e). Ideal para contadores, empresas e profissionais que precisam gerenciar grandes volumes de documentos fiscais.
 
 ![Badge](https://img.shields.io/badge/Versão-1.0-blue) ![Badge](https://img.shields.io/badge/Licença-GPLv3-green)
-(DESENVOLVIMENTO PARADO)
+
 
 ## 📋 Funcionalidades
 
